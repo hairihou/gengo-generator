@@ -1,0 +1,7 @@
+{
+  "name": "gengo-generator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
